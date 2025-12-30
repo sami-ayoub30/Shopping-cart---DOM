@@ -1,0 +1,29 @@
+.price {
+  font-family: "Climate Crisis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "YEAR" 1979;
+}
+.fa-square-minus, .fa-square-plus{
+    font-size: 24px;
+}
+
+.quantity{
+    font-size: 28px;
+}
+
+i{
+    cursor: pointer;
+}
+.fa-trash-can, .fa-heart{
+    font-size: 28px;
+}
+
+.card-img-top{
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+}
+
